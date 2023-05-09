@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -17,6 +17,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+import edu.uncc.hw06.R;
 import edu.uncc.hw06.databinding.FragmentLoginBinding;
 
 public class LoginFragment extends Fragment {

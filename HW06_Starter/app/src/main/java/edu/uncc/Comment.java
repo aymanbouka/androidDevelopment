@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import com.google.firebase.Timestamp;
 

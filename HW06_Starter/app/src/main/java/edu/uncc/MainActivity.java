@@ -1,10 +1,17 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
 import com.google.firebase.auth.FirebaseAuth;
+
+import edu.uncc.hw06.CreateForumFragment;
+import edu.uncc.hw06.ForumFragment;
+import edu.uncc.hw06.Forums;
+import edu.uncc.hw06.ForumsFragment;
+import edu.uncc.hw06.LoginFragment;
+import edu.uncc.hw06.R;
 
 public class MainActivity extends AppCompatActivity implements LoginFragment.LoginListener, SignUpFragment.SignUpListener,
     ForumsFragment.ForumsListener, CreateForumFragment.CreateForumListener {

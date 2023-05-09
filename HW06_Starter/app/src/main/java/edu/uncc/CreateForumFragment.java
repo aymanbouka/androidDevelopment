@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import android.content.Context;
 import android.os.Bundle;

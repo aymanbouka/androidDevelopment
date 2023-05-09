@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -24,6 +24,8 @@ import com.google.firebase.firestore.QuerySnapshot;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 
+import edu.uncc.hw06.Forums;
+import edu.uncc.hw06.R;
 import edu.uncc.hw06.databinding.ForumRowItemBinding;
 import edu.uncc.hw06.databinding.FragmentForumsBinding;
 

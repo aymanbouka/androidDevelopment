@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -18,6 +18,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.UserProfileChangeRequest;
 
+import edu.uncc.hw06.R;
 import edu.uncc.hw06.databinding.FragmentSignUpBinding;
 
 public class SignUpFragment extends Fragment {

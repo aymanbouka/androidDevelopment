@@ -1,4 +1,4 @@
-package edu.uncc.hw06;
+package edu.uncc;
 
 import android.os.Bundle;
 
@@ -28,6 +28,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import edu.uncc.hw06.Comment;
 import edu.uncc.hw06.databinding.CommentRowItemBinding;
 import edu.uncc.hw06.databinding.ForumRowItemBinding;
 import edu.uncc.hw06.databinding.FragmentForumBinding;
