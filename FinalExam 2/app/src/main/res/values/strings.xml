@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="logout_title">Logout</string>
+    <string name="my_favorites_title">My Favorites</string>
+
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">Login</string>
+    <string name="create_new_account_label">Create New Account</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="submit_label">Submit</string>
+
+    <string name="search_keyword_label">Enter Search Keyword</string>
+    <string name="search_label">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
